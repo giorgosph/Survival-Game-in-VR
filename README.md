@@ -1,5 +1,5 @@
 # Final Year Project
-![Gameplay Screenshot](https://github.com/giorgosph/Survival-Game-in-VR/blob/main/gameplay%20screenshot%201.png "Gameplay Screenshot")
+![Gameplay Screenshot](https://github.com/giorgosph/Survival-Game-in-VR/blob/main/gameplay%20screenshot%201.png "Gameplay Screenshot" | width=150)
 ### About
 The FYP focuses in the development of a 3D indie game using VR. The game is a single player (first person) survival game. 
 
